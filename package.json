@@ -2,8 +2,8 @@
   "name": "minimal",
   "version": "0.1.0",
   "private": true,
+"homepage": "https://FatimaRasheedEngineer.github.io/Minimal",
 
-  "homepage": "https://FatimaRasheedEngineer.github.io/Minimal",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
