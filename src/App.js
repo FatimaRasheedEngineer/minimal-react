@@ -13,13 +13,11 @@ function App() {
   const projectsRef = useRef(null);
   const teamRef = useRef(null);
   const contactRef = useRef(null);
-
   const scrollToSection = (ref) => {
     if (ref.current) {
       ref.current.scrollIntoView({ behavior: 'smooth' });
     }
   };
-
   return (
     <div>
       <Navbar onNavigate={scrollToSection} refs={{ processRef, projectsRef, teamRef, contactRef }} />

@@ -1,5 +1,4 @@
 import React from "react";
-
 function Contact() {
   return (
     <section
@@ -17,7 +16,7 @@ function Contact() {
         <div className="w-16 h-0.5 bg-gray-400 mb-12"></div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-6xl w-full">
-          {/* Meet Us In Person */}
+  
           <div className="flex flex-col items-center">
             <i className="fas fa-map-marker-alt text-6xl mb-4 text-white"></i>
             <h3 className="text-lg font-medium mb-2 tracking-wide">
@@ -34,7 +33,7 @@ function Contact() {
             </p>
           </div>
 
-          {/* The Traditional Way */}
+
           <div className="flex flex-col items-center">
             <i className="fas fa-envelope text-6xl mb-4 text-white"></i>
             <h3 className="text-lg font-medium mb-2 tracking-wide">
@@ -53,7 +52,6 @@ function Contact() {
             </a>
           </div>
 
-          {/* Let's Get Social */}
           <div className="flex flex-col items-center">
             <i className="fas fa-heart text-6xl mb-4 text-white"></i>
             <h3 className="text-lg font-medium mb-2 tracking-wide">
