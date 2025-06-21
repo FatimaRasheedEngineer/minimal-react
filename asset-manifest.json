@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minimal-react/static/css/main.da092298.css",
-    "main.js": "/minimal-react/static/js/main.7129d550.js",
+    "main.css": "/minimal-react/static/css/main.fc7b0d80.css",
+    "main.js": "/minimal-react/static/js/main.77b6a2a3.js",
     "static/js/453.42fcfa0c.chunk.js": "/minimal-react/static/js/453.42fcfa0c.chunk.js",
     "static/media/path.jpg": "/minimal-react/static/media/path.7959701df718afc0c07f.jpg",
     "static/media/woods.jpg": "/minimal-react/static/media/woods.a8c3a82ec0f6909fb4b4.jpg",
@@ -14,12 +14,12 @@
     "static/media/waves.jpg": "/minimal-react/static/media/waves.982bcfaa044c3a347aa0.jpg",
     "static/media/darkness.jpg": "/minimal-react/static/media/darkness.4dfb78dfc90202e96c1f.jpg",
     "index.html": "/minimal-react/index.html",
-    "main.da092298.css.map": "/minimal-react/static/css/main.da092298.css.map",
-    "main.7129d550.js.map": "/minimal-react/static/js/main.7129d550.js.map",
+    "main.fc7b0d80.css.map": "/minimal-react/static/css/main.fc7b0d80.css.map",
+    "main.77b6a2a3.js.map": "/minimal-react/static/js/main.77b6a2a3.js.map",
     "453.42fcfa0c.chunk.js.map": "/minimal-react/static/js/453.42fcfa0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da092298.css",
-    "static/js/main.7129d550.js"
+    "static/css/main.fc7b0d80.css",
+    "static/js/main.77b6a2a3.js"
   ]
 }
